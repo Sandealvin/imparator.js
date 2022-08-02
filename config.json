@@ -1,0 +1,35 @@
+{ 
+    "token": "ODgxODEyNTAzNDgxNDQyMzA0.YSyR5A.xeAhU335Cr7qqPdy2z_9kTO-HV4",
+    "prefix": ".",
+    "main":{
+        "sahip":"678980604171124741",
+        "footer":"Bunun gibi ve bir çoğunu buradan satın alabilirsiniz: discord.gg/kKpDzdrbbK",
+        "ses":"875075171852091412"
+    },
+    "moderation":{
+		"banrol":["881510412745601084"],
+        "muteyetkilisi":["881510832830312468"],
+        "mutedrol":"853686461483581470",
+        "jailrol":"818276011086708781",
+        "jailyetkilisi":["818276011145035819"],
+        "messageLog":"853684985034047529"
+    },
+    "emoji":{
+      "no":"<a:no:860513862566936596>",
+      "noid":"860513862566936596",
+      "tik":"<a:yes:860513778256052244>",
+      "tikid":"860513778256052244"
+    },
+    "register":{
+        "erkek":["818276011103223859"],
+        "yetkili":"818276011145035816",
+        "kanal":"818276011216076805",
+        "unregister":"818276011086708785",
+        "chat":"818276011506270224",
+        "tag":"",
+        "registerLog":"851042711556587531"
+    },
+    "sunucu":{
+      "isim":"Luxury"
+    }
+}
